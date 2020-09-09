@@ -4,7 +4,7 @@
 
 My name is Chris Eckert and I'm a software developer. I'm from Austin, TX, living in San Antonio, TX. I recently graduated from Codeup's Full Stack Web Development program as a member of the Ganymede cohort, and am activtely seeking employment. You can find me on [![LinkedIn][3.2]][3].
 
-## &#x1f1fa; Military and Hobbies
+## &#x1F396; Military and Hobbies
 
 Apart from coding, I also serve in the Texas Air National Guard, am an avid gamer, and enjoy anything outdoors.
 
