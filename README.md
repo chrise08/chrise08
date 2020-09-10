@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/chrise08/chrise08/master/readme_header.png "Header")]
+[![Header](https://raw.githubusercontent.com/chrise08/chrise08/master/readme_header.png "Header")](https://github.com/chrise08)
 
 # Hey, y'all! <img src="https://raw.githubusercontent.com/chrise08/chrise08/master/wave.gif" width="30px">
 
-My name is Chris Eckert and I'm a software developer. I'm from Austin, TX, living in San Antonio, TX. I recently graduated from Codeup's Full Stack Web Development program as a member of the Ganymede cohort, and am activtely seeking employment. You can find me on [![LinkedIn][3.2]][3].
+My name is Chris Eckert, and I'm a software developer. I'm from Austin, TX, living in San Antonio, TX. I recently graduated from Codeup's Full Stack Web Development program as a member of the Ganymede cohort, and am actively seeking employment. You can find me on [![LinkedIn][3.2]][3].
 
 ## &#x1F396; Military and Hobbies
 
