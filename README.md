@@ -2,7 +2,7 @@
 
 # Hey, y'all! <img src="https://raw.githubusercontent.com/chrise08/chrise08/master/wave.gif" width="30px">
 
-My name is Chris Eckert, and I'm a software developer. I'm from Austin, TX, living in San Antonio, TX. I recently graduated from Codeup's Full Stack Web Development program as a member of the Ganymede cohort, and am actively seeking employment. You can also find me on [![LinkedIn][3.2]][3].
+My name is Chris Eckert, and I'm a software developer. I'm from Austin, TX, living in San Antonio, TX. I recently graduated from Codeup's Full Stack Java Web Development program as a member of the Ganymede cohort, and am actively seeking employment. You can also find me on [![LinkedIn][3.2]][3].
 
 ## &#x1F396; Military and Hobbies
 
